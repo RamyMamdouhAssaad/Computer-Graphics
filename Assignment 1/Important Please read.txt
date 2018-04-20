@@ -1,0 +1,17 @@
+According to Part one :
+
+I couldn't do the animation using the mouse and keyboard at the same time So I seperated them into two files 
+
+First File(Part1) : conatins Chess,Ying-Yang and triangle(not rotating)
+Second FIle(animation) :containg the rotating triangle 
+
+Part 4:
+
+Black Shapes :before transformation 
+Blue SHapes :after Transformation 
+to Compare them 
+
+press'1':Perform a 45 degree rotation of the triangle about the point P (-1,-1)
+press'2':Reflect the triangle about Horizontal Line given by y = 2 
+press'3':Reflect the triangle about Vertical Line given by x = 2 
+press'4':Reflect the triangle about The Line given by y = 2x + 1
